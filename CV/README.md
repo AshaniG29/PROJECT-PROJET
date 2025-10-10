@@ -13,6 +13,11 @@ Pour voir le rendu :
 2. Ouvrir le fichier `index.html`
 3. Cliquer droit → **Ouvrir avec** → **Firefox**
 
+To view the project:
+1. Download or clone the repository  
+2. Open the file `index.html`  
+3. Right-click → **Open with** → **Firefox**
+
 ## 📂 Contenu/ Contents
 - `index.html` : page principale / main page  
 - `style.css` : mise en forme / styling  
