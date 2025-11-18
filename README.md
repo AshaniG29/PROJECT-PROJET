@@ -17,6 +17,16 @@ Below is a collection of projects demonstrating my ability to manage the full li
 5.  [L'Art 2 la Main (Digital Strategy Consulting)]
 6.  [MagiCouture (Business Innovation)]
 
+
+## 📂 Table of Contents
+
+1.  [AFIHM Database Optimization & SQL Implementation](https://www.google.com/search?q=%231-afihm-database-optimization--sql-implementation)
+2.  [Determinants of Phytopharmaceutical Purchases](https://www.google.com/search?q=%232-determinants-of-phytopharmaceutical-purchases)
+3.  [Hedonic Price Analysis of Laptops](https://www.google.com/search?q=%233-hedonic-price-analysis-of-laptops)
+4.  [L'Art Sucré de France (Web & Data Collection)](https://www.google.com/search?q=%234-lart-sucr%C3%A9-de-france-web--data-collection)
+5.  [L'Art 2 la Main (Digital Strategy Consulting)](https://www.google.com/search?q=%235-lart-2-la-main-digital-strategy-consulting)
+6.  [MagiCouture (Business Innovation)](https://www.google.com/search?q=%236-magicouture-business-innovation)
+
 -----
 
 ## 1\. AFIHM Database Optimization & SQL Implementation
