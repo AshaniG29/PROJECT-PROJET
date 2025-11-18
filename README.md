@@ -10,12 +10,12 @@ Below is a collection of projects demonstrating my ability to manage the full li
 
 ## Table of Contents
 
-**1.  AFIHM Database Optimization & SQL Implementation**
-**2.  Determinants of Phytopharmaceutical Purchases**
-**3.  Hedonic Price Analysis of Laptops**
-**4.  L'Art Sucré de France (Web & Data Collection)**
-**5.  L'Art 2 la Main (Digital Strategy Consulting)**
-**6.  MagiCouture (Business Innovation)**
+1.  AFIHM Database Optimization & SQL Implementation
+2.  Determinants of Phytopharmaceutical Purchases
+3.  Hedonic Price Analysis of Laptops
+4.  L'Art Sucré de France (Web & Data Collection)
+5.  L'Art 2 la Main (Digital Strategy Consulting)
+6.  MagiCouture (Business Innovation)
 
 -----
 
