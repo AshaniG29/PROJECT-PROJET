@@ -1,6 +1,7 @@
 # Information Systems Management Portfolio
 
-Welcome to my portfolio\I am a Master's student in Information Systems Management (MSI). 
+Welcome to my portfolio!
+I am a Master's student in Information Systems Management (MSI). 
 My academic and project background bridges the gap between technical architecture and business strategy.
 I specialize in designing robust information systems, driving digital transformation, and leveraging data to support strategic decision-making. 
 Below is a collection of projects demonstrating my ability to manage the full lifecycle of digital solutions, from database conception to user-centric innovation.
